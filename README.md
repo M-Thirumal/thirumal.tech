@@ -1,2 +1,0 @@
-# thirumal.tech
-website
